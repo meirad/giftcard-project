@@ -69,10 +69,6 @@ return (
     )}
   </div>
 );
-
-// ...
-
-
 };
 
 export default GiftCard;
